@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Data Automation & Reporting – HeartBeat Inc. (Academic Project)
+# 🦠 COVID-19 Data Automation & Reporting
 
 **Institution**: Nova Scotia Community College (NSCC)  
 **Program**: IT – Data Analytics  
