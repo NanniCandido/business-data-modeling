@@ -1,9 +1,9 @@
 # 🦠 COVID-19 Data Automation & Reporting – HeartBeat Inc. (Academic Project)
 
-**Course**: DBAS3019 – Business Data Modelling  
-**Instructor**: George Campanis  
 **Institution**: Nova Scotia Community College (NSCC)  
 **Program**: IT – Data Analytics  
+**Course**: DBAS3019 – Business Data Modelling  
+**Instructor**: George Campanis  
 **Term**: Fall 2024
 
 ---
