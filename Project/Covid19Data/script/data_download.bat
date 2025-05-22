@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\DTExec.exe" /f "C:\Users\elain\OneDrive\Documents\NSCC\Term_3\DBAS3019\repo\Project\Covid19Data\Package.dtsx"

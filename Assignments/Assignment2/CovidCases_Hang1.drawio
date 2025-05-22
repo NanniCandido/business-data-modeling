@@ -1,0 +1,171 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.14">
+  <diagram name="Page-1" id="QEz-hbO8l4fIIS1U3qgR">
+    <mxGraphModel dx="1588" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-19" value="API" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
+          <mxGeometry x="10" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=-0.09;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290.48275862068976" y="320" as="sourcePoint" />
+            <mxPoint x="290.9999999999998" y="385.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-50" value="new Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-47">
+          <mxGeometry x="-0.211" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KJ-0HAdOCDC-fZgfdOtz-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="415" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-129" value="vaccine" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-88">
+          <mxGeometry x="0.0078" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="KJ-0HAdOCDC-fZgfdOtz-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="415.0344827586207" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-93" value="death data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-89">
+          <mxGeometry x="0.1149" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.983;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KJ-0HAdOCDC-fZgfdOtz-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="500" as="sourcePoint" />
+            <mxPoint x="240.99999999999977" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-41" value="Covid data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-30">
+          <mxGeometry x="-0.2426" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-51" value="Statistics&amp;nbsp;&lt;div&gt;Canada&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
+          <mxGeometry x="550" y="185" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.011;exitY=0.31;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KJ-0HAdOCDC-fZgfdOtz-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="400" as="sourcePoint" />
+            <mxPoint x="340" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-57" value="Pop data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-56">
+          <mxGeometry x="0.0023" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJ-0HAdOCDC-fZgfdOtz-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="563" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-128" value="covid cases" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-91">
+          <mxGeometry x="-0.0201" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-83" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Covid Cases" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJ-0HAdOCDC-fZgfdOtz-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475.0344827586209" y="563" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="475" y="530" />
+              <mxPoint x="475" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-95" value="vacine data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-90">
+          <mxGeometry x="-0.6942" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-86" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Vaccinations" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KJ-0HAdOCDC-fZgfdOtz-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-125" value="death data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-101">
+          <mxGeometry x="0.0708" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-87" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Death" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="70" y="576" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-97" value="Public" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
+          <mxGeometry x="621" y="559" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" target="KJ-0HAdOCDC-fZgfdOtz-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="588" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-102" value="daily report" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-98">
+          <mxGeometry x="0.1211" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.971;entryY=0.941;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KJ-0HAdOCDC-fZgfdOtz-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.99999999999977" y="275.0344827586207" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-107" value="request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-105">
+          <mxGeometry x="-0.0748" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=90;entryPerimeter=0;" edge="1" parent="1" target="KJ-0HAdOCDC-fZgfdOtz-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="275" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-108" value="request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-106">
+          <mxGeometry x="0.4029" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-111" value="1" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-112" value="Process data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KJ-0HAdOCDC-fZgfdOtz-111">
+          <mxGeometry y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-114" value="2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="385" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-120" value="Update&lt;div&gt;Database&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="413" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-122" value="3" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="570" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-123" value="&lt;br&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;Generate&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;&amp;nbsp;report&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KJ-0HAdOCDC-fZgfdOtz-122">
+          <mxGeometry x="10" y="10" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.552;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KJ-0HAdOCDC-fZgfdOtz-114" target="KJ-0HAdOCDC-fZgfdOtz-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KJ-0HAdOCDC-fZgfdOtz-127" value="covid cases" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KJ-0HAdOCDC-fZgfdOtz-126">
+          <mxGeometry x="-0.3862" y="1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
