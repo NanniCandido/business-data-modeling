@@ -87,6 +87,3 @@ Throughout the semester, the solution was built incrementally through assignment
 
 ---
 
-## 📬 Contact
-
-Elaine C. da Silva – [LinkedIn](https://www.linkedin.com/in/elaine-candido-da-silva/) | nannicandido@gmail.com
